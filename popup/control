@@ -1,0 +1,10 @@
+Package: com.zanehelton.popup
+Name: Popup
+Description: A simple listener for the libactivator API!
+Version: 0.0.1
+Priority: optional
+Section: Addons (Activator)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, libactivator
+Maintainer: Zane Helton
+Author: Zane Helton

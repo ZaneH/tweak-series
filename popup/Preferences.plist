@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>icon</key>
+		<string>/Applications/Preferences.app/icon-table@2x.png</string>
+		<key>label</key>
+		<string>Popup</string>
+	</dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>activatorListener</key>
+			<string>com.zanehelton.popup.listener</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Activation Methods</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Popup</string>
+</dict>
+</plist>
