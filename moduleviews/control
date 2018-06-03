@@ -1,0 +1,9 @@
+Package: com.zanehelton.moduleviews
+Name: ModuleViews
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Zane Helton
+Author: Zane Helton
+Section: Tweaks
